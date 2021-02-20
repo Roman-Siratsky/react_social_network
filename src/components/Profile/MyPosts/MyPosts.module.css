@@ -1,0 +1,16 @@
+.item {
+  color: aquamarine;
+}
+.container {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+.textarea {
+  width: 500px;
+}
+
+.postButton {
+  height: 32px;
+}

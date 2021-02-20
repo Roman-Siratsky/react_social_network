@@ -1,0 +1,10 @@
+.header {
+  grid-area: head;
+  background: black;
+  /* border: 2px solid gold; */
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-top: 2px;
+  padding-bottom: 5px;
+  /* text-decoration: none; */
+}

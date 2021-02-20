@@ -1,0 +1,32 @@
+.messagesPage {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  display: grid;
+  grid-template-columns: 2fr 6fr;
+}
+.dialogs {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.dialog {
+  text-decoration: none;
+  padding: 10px;
+}
+.messages {
+  padding: 20px;
+}
+.message {
+  padding: 10px;
+}
+.active {
+  color: aqua;
+  /* text-decoration: none; */
+}
+.sendingForm {
+  display: flex;
+}
+.sendingForm button {
+  width: 40px;
+  height: 40px;
+}

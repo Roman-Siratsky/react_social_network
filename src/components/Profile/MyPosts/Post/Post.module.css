@@ -1,0 +1,26 @@
+.item {
+  width: 20%;
+  display: flex;
+  color: aquamarine;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 auto;
+  width: 90%;
+}
+.item {
+  padding: 10px;
+}
+.item img {
+  border-radius: 10px;
+}
+.post {
+  font-family: "Courier New", Courier, monospace;
+}
+.likes {
+  margin-left: 15px;
+  width: 25px;
+  height: 25px;
+  background-color: brown;
+  border-radius: 10px;
+  text-align: center;
+}
